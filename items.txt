@@ -1,0 +1,7 @@
+Phone, 0.25, 600
+Laptop, 10, 2000
+Jewelry, 0.5, 500
+TV, 0.5, 300
+Play Station, 3, 500
+Clock, 5, 1500
+Camera, 2, 400
